@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BatchManagementSystemAdmin
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Win 10
+Implementation-Vendor-Id: com.bms.admin
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/BatchManagementSystemAdmin
+Created-By: Maven Integration for Eclipse
+
